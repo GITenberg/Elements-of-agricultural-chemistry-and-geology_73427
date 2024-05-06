@@ -1,0 +1,33 @@
+_repo: Elements-of-agricultural-chemistry-and-geology_73427
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnston, Jas. F. W. (James Finlay Weir)
+    alias: Johnston, James Finlay Weir
+    birthdate: 1796
+    deathdate: 1855
+    gutenberg_agent_id: '57065'
+    url: http://www.gutenberg.org/2009/agents/57065
+    wikipedia: https://en.wikipedia.org/wiki/James_Finlay_Weir_Johnston
+description: ''
+gutenberg_issued: '2024-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73427'
+language: en
+pgterms:marc904: https://archive.org/details/elementsofagricu00john/page/n9/mode/2up
+pgterms:marc905: 20230428073853johnston
+pgterms:marc906: '1842'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bWiley and Putnam, $c1842.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agricultural chemistry'
+- !lcc 'S'
+- GITenberg
+title: Elements of agricultural chemistry and geology
+url: http://www.gutenberg.org/ebooks/73427
